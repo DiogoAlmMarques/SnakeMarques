@@ -1,0 +1,134 @@
+D:\Dropbox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\bin\Debug\Desenhar.exe.config
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\bin\Debug\Desenhar.exe
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\bin\Debug\Desenhar.pdb
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.exe
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.pdb
+D:\DropBox\ESEN 2014-15\PSI 11ºH\MOD 09\Projects\Desenhar\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\José Lopes\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Diogo\Dropbox\PARTILHA-11ºH\PSI\MOD 09\PROJECTS\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Diogo\Desktop\04 - Desenhar\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Diogo\Desktop\New folder (2)\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\Diogo\Dropbox\CsGoconfigs\1223\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Diogo\Desktop\hjkh\SnakeMarquesBeta2.0\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\aluno\Downloads\SnakeMarques\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\aluno\Desktop\Nova pasta\SnakeMarques\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Instrucoes.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Instrucoes.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\diogo_000\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe.config
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.exe
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.pdb
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.exe
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\bin\Debug\Desenhar.pdb
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmAbout.resources
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.frmPrincipal.resources
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.FrmOpcoes.resources
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Instrucoes.resources
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.Properties.Resources.resources
+C:\Users\Gaming\Desktop\SnakeMarques\Desenhar\obj\Debug\Desenhar.csproj.GenerateResource.Cache
